@@ -12,14 +12,14 @@ import cdnConfigs from './AwsCdnConfig'
 
 export default [
   userConfigs,
-  deviceConfigs,
+  // deviceConfigs,
   videoConfigs,
   adConfigs,
-  apiConfigs,
-  cdnConfigs,
-  originConfigs,
-  publishConfigs,
-  processConfigs,
-  ingestConfigs,
-  sourceConfigs,
+  // apiConfigs,
+  // cdnConfigs,
+  // originConfigs,
+  // publishConfigs,
+  // processConfigs,
+  // ingestConfigs,
+  // sourceConfigs,
 ]
